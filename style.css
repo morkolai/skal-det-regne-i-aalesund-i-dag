@@ -1,0 +1,18 @@
+* {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 200px;
+    margin: auto;
+}
+
+#content {
+    position: relative;
+    margin-top: 300px;
+}
+
+
